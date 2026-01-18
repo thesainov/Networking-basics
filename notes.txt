@@ -1,0 +1,9 @@
+IP address
+Subnet mask
+Gateway
+DNS
+TCP / UDP
+HTTP / HTTPS
+Ports 80, 443, 22
+Ping
+Traceroute
